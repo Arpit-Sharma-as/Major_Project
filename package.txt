@@ -1,0 +1,6 @@
+cmake
+libopenblas-dev
+liblapack-dev
+libpng-dev
+libjpeg-dev
+libgif-dev
